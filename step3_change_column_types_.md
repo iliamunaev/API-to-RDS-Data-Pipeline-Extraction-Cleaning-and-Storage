@@ -1,4 +1,4 @@
-# Project name
+# Data API to AWS RDS: retrieve, clean, upload
 ## Step 3:
 - Read CSV file
 - Set Database connection parameters
