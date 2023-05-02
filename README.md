@@ -40,6 +40,6 @@ Step 3: Correction (SQL): step by step in [JupyterNotebook](https://github.com/i
 *"These records are generated from the trip record submissions made by yellow taxi Technology Service Providers (TSPs). Each row represents a single trip in a yellow taxi in 2021. The trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts."*
 
 <img src="https://github.com/iliamunaev/Data-from-API-to-AWS-RDS-retrieve-clean-upload/blob/main/pics/dataset_overview.png">
-Img source: https://opendata.cityofnewyork.us/
+Img source: https://data.cityofnewyork.us/Transportation/2021-Yellow-Taxi-Trip-Data/m6nq-qud6
 
 
