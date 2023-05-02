@@ -11,6 +11,12 @@ Project steps
 - In the next step, I will create a structured database on Amazon RDS, allowing for easy accessibility, storage, and dataset management.
 - Finally, the data will be uploaded to the Amazon RDS database from a CSV file. Some correction will be made in pgAdmin by using SQL.
 
+## Navigation
+
+Step 1: Extraction and cleaning: step by step in [JupyterNotebook](https://github.com/iliamunaev/API-to-RDS-Data-Pipeline-Extraction-Cleaning-and-Storage/blob/main/step1_retrieve_clean_data_python.ipynb), python [code](https://github.com/iliamunaev/API-to-RDS-Data-Pipeline-Extraction-Cleaning-and-Storage/blob/main/retrieve_data_from_API.py).  
+Step 2: Uploading to Amazon RDS: step by step in [JupyterNotebook](https://github.com/iliamunaev/API-to-RDS-Data-Pipeline-Extraction-Cleaning-and-Storage/blob/main/step2_upload_CSV_to_database_python.ipynb), python [code](https://github.com/iliamunaev/API-to-RDS-Data-Pipeline-Extraction-Cleaning-and-Storage/blob/main/csv_upload_to_rds.py).  
+Step 3: Correction (SQL): [step by step in JupyterNotebook](https://github.com/iliamunaev/API-to-RDS-Data-Pipeline-Extraction-Cleaning-and-Storage/blob/main/step3_change_column_types_SQL.md)
+
 ## Environment and tools:
 - Amazon RDS
 - JupyterLab 
