@@ -1,11 +1,13 @@
 # Data API to AWS RDS: retrieve, clean, upload
 ## Step 3:
-- Read CSV file
-- Set Database connection parameters
-- Establish a connection to RDS instance using SQL
-- Write the contents of the DataFrame to the RDS instance
+- Change data type of the columns 
+- Read final output
 
-
+## Tools:
+- PgAdmin
+## Languages & libreries:
+- SQL
+ 
 #### Change data type of the columns 
 
 ```sql
