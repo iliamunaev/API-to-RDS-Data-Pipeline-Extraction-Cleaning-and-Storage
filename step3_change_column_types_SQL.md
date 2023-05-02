@@ -5,13 +5,6 @@
 - Establish a connection to RDS instance using SQL
 - Write the contents of the DataFrame to the RDS instance
 
-#### Read the first 5 rows of Database
-
-```sql
-SELECT *
-FROM ny_taxi
-LIMIT 5;
-```
 
 #### Change data type of the columns 
 
@@ -24,3 +17,13 @@ ALTER COLUMN dropoff_time TYPE time using ("dropoff_time"::text::time),
 ALTER COLUMN passenger_count TYPE smallint,
 ALTER COLUMN payment_type TYPE smallint;
 ```
+
+#### Read the first 5 rows of Database
+
+```sql
+SELECT *
+FROM ny_taxi
+LIMIT 5;
+```
+
+![SQL query output]([http://url/to/img.png](https://github.com/iliamunaev/ny_taxi_data/blob/main/pics/final_result_SQL.png))
