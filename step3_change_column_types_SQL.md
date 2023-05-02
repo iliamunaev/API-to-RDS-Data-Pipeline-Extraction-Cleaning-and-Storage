@@ -2,11 +2,6 @@
 ## Step 3:
 - Change data type of the columns 
 - Read final output
-
-## Tools:
-- PgAdmin
-## Languages & libreries:
-- SQL
  
 #### Change data type of the columns 
 
