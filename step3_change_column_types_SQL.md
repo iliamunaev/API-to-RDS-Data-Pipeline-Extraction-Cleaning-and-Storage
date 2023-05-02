@@ -1,5 +1,5 @@
-# Data API to AWS RDS: retrieve, clean, upload
-## Step 3:
+# API-to-RDS Data Pipeline for NYC High-Value Taxi Trips 2021: Extraction, Cleaning, and Storage
+## Step 3: Correction
 - Change data type of the columns 
 - Read final output
  
