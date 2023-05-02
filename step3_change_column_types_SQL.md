@@ -26,4 +26,4 @@ FROM ny_taxi
 LIMIT 5;
 ```
 
-![SQL query output]([http://url/to/img.png](https://github.com/iliamunaev/ny_taxi_data/blob/main/pics/final_result_SQL.png))
+<img src="https://github.com/iliamunaev/ny_taxi_data/blob/main/pics/final_result_SQL.png" alt="SQL query output">
