@@ -6,7 +6,7 @@ csv_file = 'my_csv_file.csv'
 df = pd.read_csv(csv_file)
 
 # Set Database connection parameters
-db_port = 5432  # Port by defoult
+db_port = 5432  # Port by default
 db_name = 'my_db_name'
 db_username = 'my_username'
 db_password = 'my_password'
