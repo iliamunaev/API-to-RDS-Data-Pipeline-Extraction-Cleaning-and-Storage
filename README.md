@@ -17,7 +17,7 @@ Step 1: Extraction and cleaning by Python: step by step in [JupyterNotebook](htt
 Step 2: Upload to Amazon RDS by Python: step by step in [JupyterNotebook](https://github.com/iliamunaev/API-to-RDS-Data-Pipeline-Extraction-Cleaning-and-Storage/blob/main/step2_upload_CSV_to_database_python.ipynb), python [code](https://github.com/iliamunaev/API-to-RDS-Data-Pipeline-Extraction-Cleaning-and-Storage/blob/main/csv_upload_to_rds.py).  
 Step 3: Correction by SQL: step by step in [JupyterNotebook](https://github.com/iliamunaev/API-to-RDS-Data-Pipeline-Extraction-Cleaning-and-Storage/blob/main/step3_change_column_types_SQL.md).
 
-## Environment and tools:
+## Environment, tools, languages:
 - Amazon RDS
 - JupyterLab 
 - PgAdmin 4
@@ -41,5 +41,3 @@ Step 3: Correction by SQL: step by step in [JupyterNotebook](https://github.com/
 
 <img src="https://github.com/iliamunaev/Data-from-API-to-AWS-RDS-retrieve-clean-upload/blob/main/pics/dataset_overview.png">
 Img source: https://data.cityofnewyork.us/Transportation/2021-Yellow-Taxi-Trip-Data/m6nq-qud6
-
-
