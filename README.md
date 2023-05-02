@@ -25,7 +25,7 @@ Step 3: Correction by SQL: step by step in [JupyterNotebook](https://github.com/
 - PyCharm
 - Python 3.11.3
 
-## Libreries:
+## Libraries:
 - **json** - *built-in package, which can be used to work with JSON data*
 - **pandas** - *ibrary written for the Python programming language for data manipulation and analysis)*
 - **psycopg2** - *PostgreSQL database adapter for Python*
